@@ -1,0 +1,19 @@
+.text1 {
+  color: rebeccapurple;
+}
+
+.text2 {
+  color: #00ff00;
+}
+
+.text3 {
+  color: rgb(214, 122, 127);
+}
+
+.text4 {
+  color: hsl(30, 100%, 50%);
+}
+
+.text5 {
+  color: hsla(30, 100%, 50%, 0.3);
+}
