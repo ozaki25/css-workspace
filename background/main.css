@@ -1,0 +1,60 @@
+div {
+  height: 200px;
+  width: 200px;
+}
+
+.area1 {
+  background: green;
+}
+
+.area2 {
+  background: url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_200x200.jpg);
+}
+
+.area3 {
+  background: 50px
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area4 {
+  background: lightcyan repeat-x
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area5 {
+  background: lightcyan repeat-y
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area6 {
+  background: lightcyan no-repeat
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area7 {
+  background: lightcyan round
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area8 {
+  background: lightcyan no-repeat center
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.area9 {
+  background: scroll
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_200x200.jpg);
+  overflow: scroll;
+}
+
+.area10 {
+  background: fixed
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_200x200.jpg);
+  overflow: scroll;
+}
+
+.area11 {
+  background: local
+    url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_200x200.jpg);
+  overflow: scroll;
+}
