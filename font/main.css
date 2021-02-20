@@ -91,12 +91,15 @@
 }
 
 .text24 {
+  font: italic 16px serif;
 }
 
 .text25 {
+  font: oblique 16px serif;
 }
 
 .text26 {
+  font: oblique 50deg 16px serif;
 }
 
 .text27 {
