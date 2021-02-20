@@ -107,17 +107,49 @@
 }
 
 .text28 {
-  font: 16px serif;
+  font: bold 16px serif;
 }
 
 .text29 {
-  font: 16px serif;
+  font: lighter 16px serif;
 }
 
 .text30 {
-  font: 16px serif;
+  font: bolder 16px serif;
 }
 
 .text31 {
-  font: 16px serif;
+  font: 100 16px serif;
+}
+
+.text32 {
+  font: 200 16px serif;
+}
+
+.text33 {
+  font: 300 16px serif;
+}
+
+.text34 {
+  font: 400 16px serif;
+}
+
+.text35 {
+  font: 500 16px serif;
+}
+
+.text36 {
+  font: 600 16px serif;
+}
+
+.text37 {
+  font: 700 16px serif;
+}
+
+.text38 {
+  font: 800 16px serif;
+}
+
+.text39 {
+  font: 900 16px serif;
 }
