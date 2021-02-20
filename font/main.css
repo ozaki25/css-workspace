@@ -1,0 +1,23 @@
+.text1 {
+  font: caption;
+}
+
+.text2 {
+  font: icon;
+}
+
+.text3 {
+  font: menu;
+}
+
+.text4 {
+  font: message-box;
+}
+
+.text5 {
+  font: small-caption;
+}
+
+.text6 {
+  font: status-bar;
+}
