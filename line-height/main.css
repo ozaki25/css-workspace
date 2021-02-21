@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+}
+
+.text1 {
+  line-height: normal;
+}
+
+.text2 {
+  line-height: 1;
+}
+
+.text3 {
+  line-height: 2;
+}
+
+.text4 {
+  line-height: 24px;
+}
+
+.text5 {
+  line-height: 2rem;
+}
+
+.text6 {
+  line-height: 200%;
+}
