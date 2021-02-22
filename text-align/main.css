@@ -1,1 +1,51 @@
+.container {
+  width: 300px;
+}
 
+.text1 {
+  text-align: left;
+}
+
+.text2 {
+  text-align: right;
+}
+
+.text3 {
+  text-align: center;
+}
+
+.text4 {
+  text-align: start;
+}
+
+.text5 {
+  text-align: start;
+  direction: rtl;
+}
+
+.text6 {
+  text-align: end;
+}
+
+.text7 {
+  text-align: end;
+  direction: rtl;
+}
+
+.text8 {
+  text-align: justify;
+}
+
+.text9 {
+  text-align: justify;
+  direction: rtl;
+}
+
+.text10 {
+  text-align: match-parent;
+}
+
+.text11 {
+  text-align: match-parent;
+  direction: rtl;
+}
