@@ -1,0 +1,52 @@
+p {
+  margin: 0;
+  background-color: lightblue;
+}
+
+.text {
+  font-size: 32px;
+}
+
+.text1 {
+  vertical-align: baseline;
+}
+
+.text2 {
+  vertical-align: top;
+}
+
+.text3 {
+  vertical-align: middle;
+}
+
+.text4 {
+  vertical-align: bottom;
+}
+
+.text5 {
+  vertical-align: sub;
+}
+
+.text6 {
+  vertical-align: text-top;
+}
+
+.text7 {
+  vertical-align: 0;
+}
+
+.text8 {
+  vertical-align: 30px;
+}
+
+.text9 {
+  vertical-align: -10px;
+}
+
+.text10 {
+  vertical-align: 50%;
+}
+
+.text11 {
+  vertical-align: -30%;
+}
