@@ -29,3 +29,23 @@
 .text8 {
   text-decoration: underline #0000ff;
 }
+
+.text9 {
+  text-decoration: underline solid;
+}
+
+.text10 {
+  text-decoration: underline double;
+}
+
+.text11 {
+  text-decoration: underline dotted;
+}
+
+.text12 {
+  text-decoration: underline dashed;
+}
+
+.text13 {
+  text-decoration: underline wavy;
+}
