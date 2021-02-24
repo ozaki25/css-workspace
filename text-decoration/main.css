@@ -1,0 +1,27 @@
+.text1 {
+  text-decoration: underline;
+}
+
+.text2 {
+  text-decoration: overline;
+}
+
+.text3 {
+  text-decoration: line-through;
+}
+
+.text4 {
+  text-decoration: underline overline;
+}
+
+.text5 {
+  text-decoration: underline line-through;
+}
+
+.text6 {
+  text-decoration: overline line-through;
+}
+
+.text7 {
+  text-decoration: underline overline line-through;
+}
