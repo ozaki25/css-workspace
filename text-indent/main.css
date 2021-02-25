@@ -1,0 +1,19 @@
+.container {
+  width: 300px;
+}
+
+.text1 {
+  text-indent: 0;
+}
+
+.text2 {
+  text-indent: 30px;
+}
+
+.text3 {
+  text-indent: -30px;
+}
+
+.text4 {
+  text-indent: 15%;
+}
