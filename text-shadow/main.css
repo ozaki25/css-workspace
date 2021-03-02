@@ -1,0 +1,47 @@
+.text1 {
+  text-shadow: 2px 2px;
+}
+
+.text2 {
+  text-shadow: blue 2px 2px;
+}
+
+.text3 {
+  text-shadow: blue 2px 2px 1px;
+}
+
+.text4 {
+  text-shadow: blue 2px 2px 3px;
+}
+
+.text5 {
+  text-shadow: blue 2px 2px 5px;
+}
+
+.text6 {
+  text-shadow: blue 5px 5px 2px;
+}
+
+.text7 {
+  text-shadow: blue 0 5px 2px;
+}
+
+.text8 {
+  text-shadow: blue 5px 0 2px;
+}
+
+.text9 {
+  text-shadow: blue 0 0 2px;
+}
+
+.text10 {
+  text-shadow: blue -5px -5px 2px;
+}
+
+.text11 {
+  text-shadow: blue 2px 2px 2px, red -2px -2px 2px;
+}
+
+.text12 {
+  text-shadow: green 0 0 2px, blue 2px 2px 2px, red -2px -2px 2px;
+}
