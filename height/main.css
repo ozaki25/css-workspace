@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+p {
+  background-color: aquamarine;
+}
+
+.text1 {
+  height: 80px;
+}
+
+.text2 {
+  height: 50%;
+}
+
+.text3 {
+  height: 50vh;
+}
+
+.text4 {
+  height: auto;
+}
+
+.text5 {
+  height: max-content;
+}
+
+.text6 {
+  height: min-content;
+}
+
+.text7 {
+  height: fit-content;
+}
