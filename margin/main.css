@@ -1,0 +1,41 @@
+div {
+  border: 1px solid black;
+}
+
+p {
+  background-color: cadetblue;
+}
+
+.text1 {
+  margin: 10px;
+}
+
+.text2 {
+  margin: 5%;
+}
+
+.text3 {
+  margin: -5px;
+}
+
+.text4 {
+  margin: 20px 10px;
+}
+
+.text5 {
+  margin: 20px 10px 30px;
+}
+
+.text6 {
+  margin: 20px 10px 30px 15px;
+}
+
+.text7 {
+  margin: auto;
+  width: 80%;
+}
+
+.text8 {
+  margin: 30px auto;
+  width: 80%;
+}
