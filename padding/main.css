@@ -1,0 +1,59 @@
+div {
+  border: 1px solid black;
+}
+
+p {
+  background-color: cadetblue;
+  margin: 0;
+}
+
+.text1 {
+  padding: 10px;
+}
+
+.text2 {
+  padding: 5%;
+}
+
+.text3 {
+  padding: 20px 10px;
+}
+
+.text4 {
+  padding: 20px 10px 30px;
+}
+
+.text5 {
+  padding: 20px 10px 30px 15px;
+}
+
+.text6 {
+  padding: 10px;
+}
+
+.text7 {
+  padding: 10px;
+}
+
+.text8 {
+  padding: 30px;
+}
+
+.text9 {
+  padding: 10px;
+  display: inline-block;
+}
+
+.text10 {
+  padding: 10px 30px;
+  display: inline-block;
+}
+
+.text11 {
+  padding: 10px;
+  background-color: peachpuff;
+}
+
+.text12 {
+  padding: 30px;
+}
