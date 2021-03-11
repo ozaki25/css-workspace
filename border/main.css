@@ -1,0 +1,67 @@
+.text1 {
+  border: dotted;
+}
+
+.text2 {
+  border: dashed;
+}
+
+.text3 {
+  border: solid;
+}
+
+.text4 {
+  border: double;
+}
+
+.text5 {
+  border: groove;
+}
+
+.text6 {
+  border: ridge;
+}
+
+.text7 {
+  border: inset;
+}
+
+.text8 {
+  border: outset;
+}
+
+.text9 {
+  border: solid thin;
+}
+
+.text10 {
+  border: solid medium;
+}
+
+.text11 {
+  border: solid thick;
+}
+
+.text12 {
+  border: solid 10px;
+}
+
+.text13 {
+  border: solid lightblue;
+}
+
+.text14 {
+  border: inset lightblue 5px;
+}
+
+.text15 {
+  border: groove lightblue 5px;
+}
+
+.text16 {
+  border: ridge lightblue 5px;
+}
+
+.text17 {
+  border: dotted lightblue 50px;
+}
