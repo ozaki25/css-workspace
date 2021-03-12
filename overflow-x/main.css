@@ -1,0 +1,25 @@
+p {
+  background-color: aquamarine;
+  width: 200px;
+  white-space: nowrap;
+}
+
+.text1 {
+  overflow-x: visible;
+}
+
+.text2 {
+  overflow-x: hidden;
+}
+
+.text3 {
+  overflow-x: clip;
+}
+
+.text4 {
+  overflow-x: scroll;
+}
+
+.text5 {
+  overflow-x: auto;
+}
