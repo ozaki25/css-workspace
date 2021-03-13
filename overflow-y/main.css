@@ -1,0 +1,25 @@
+p {
+  background-color: aquamarine;
+  height: 50px;
+  width: 100px;
+}
+
+.text1 {
+  overflow-y: visible;
+}
+
+.text2 {
+  overflow-y: hidden;
+}
+
+.text3 {
+  overflow-y: clip;
+}
+
+.text4 {
+  overflow-y: scroll;
+}
+
+.text5 {
+  overflow-ys: auto;
+}
