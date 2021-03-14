@@ -1,0 +1,41 @@
+body {
+  height: 3000px;
+}
+
+p {
+  background-color: aquamarine;
+}
+
+.text1 {
+  position: static;
+}
+
+.text2 {
+  position: relative;
+  top: 10px;
+  left: 50px;
+}
+
+.text3 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+
+.text4 {
+  position: fixed;
+  top: 10px;
+  left: 50px;
+}
+
+.text5 {
+  position: sticky;
+  top: 100px;
+  left: 50px;
+}
+
+.text6 {
+}
+
+.text7 {
+}
