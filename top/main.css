@@ -1,0 +1,13 @@
+p {
+  background-color: aquamarine;
+}
+
+.text1 {
+  position: relative;
+  top: 10px;
+}
+
+.text2 {
+  position: absolute;
+  top: 10px;
+}
