@@ -1,0 +1,19 @@
+p {
+  background-color: aquamarine;
+}
+
+.text1 {
+  position: relative;
+  bottom: 10px;
+}
+
+.text2 {
+  position: absolute;
+  bottom: 50%;
+}
+
+.text3 {
+  position: absolute;
+  top: 60%;
+  bottom: 30px;
+}
