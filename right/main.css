@@ -1,0 +1,18 @@
+p {
+  background-color: aquamarine;
+}
+
+.text1 {
+  position: relative;
+  right: 30px;
+}
+
+.text2 {
+  position: absolute;
+  right: 30px;
+}
+
+.text3 {
+  position: fixed;
+  right: 30px;
+}
