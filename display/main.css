@@ -1,0 +1,15 @@
+.text1 {
+  display: block;
+}
+
+.text2 {
+  display: inline;
+}
+
+.text3 {
+  display: none;
+}
+
+.text4 {
+  display: inline-block;
+}
