@@ -1,0 +1,28 @@
+p {
+  margin: 0;
+}
+
+div,
+hr {
+  clear: both;
+}
+
+.float-none {
+  float: none;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-inline-start {
+  float: inline-start;
+}
+
+.float-inline-end {
+  float: inline-end;
+}
