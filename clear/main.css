@@ -1,0 +1,30 @@
+p {
+  margin: 0;
+  width: 85px;
+  background-color: aquamarine;
+}
+
+div,
+hr {
+  clear: both;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.clear-both {
+  clear: both;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
