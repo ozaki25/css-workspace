@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visibility - CSS Workspace</title>
+    <link rel="stylesheet" href="./main.css" />
+  </head>
+  <body>
+    <h1>
+      <a
+        href="https://developer.mozilla.org/ja/docs/Web/CSS/visibility"
+        target="_blank"
+      >
+        Visibility
+      </a>
+    </h1>
+    <hr />
+    <p class="visibility-visible">aaaa bbbb cccc dddd eeee ffff gggg</p>
+    <hr />
+    <p class="visibility-hidden">aaaa bbbb cccc dddd eeee ffff gggg</p>
+    <hr />
+    <table>
+      <thead>
+        <tr>
+          <th>AAA</th>
+          <th>BBB</th>
+          <th>CCC</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>111AAA</td>
+          <td>111BBB</td>
+          <td>111CCC</td>
+        </tr>
+        <tr class="visibility-collapse">
+          <td>222AAA</td>
+          <td>222BBB</td>
+          <td>222CCC</td>
+        </tr>
+        <tr>
+          <td>333AAA</td>
+          <td class="visibility-collapse">333BBB</td>
+          <td>333CCC</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr />
+    <table>
+      <thead>
+        <tr>
+          <th>AAA</th>
+          <th>BBB</th>
+          <th>CCC</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>111AAA</td>
+          <td>111BBB</td>
+          <td>111CCC</td>
+        </tr>
+        <tr class="visibility-hidden">
+          <td>222AAA</td>
+          <td>222BBB</td>
+          <td>222CCC</td>
+        </tr>
+        <tr>
+          <td>333AAA</td>
+          <td class="visibility-hidden">333BBB</td>
+          <td>333CCC</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr />
+  </body>
+</html>
