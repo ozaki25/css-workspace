@@ -1,0 +1,19 @@
+.image1 {
+  clip-path: none;
+}
+
+.image2 {
+  clip-path: inset(10px 20px 30px 40px);
+}
+
+.image3 {
+  clip-path: circle(100px at 80px 120px);
+}
+
+.image4 {
+  clip-path: ellipse(60px 80px at 120px 80px);
+}
+
+.image5 {
+  clip-path: polygon(10% 0, 100% 10%, 90% 100%, 0 90%);
+}
