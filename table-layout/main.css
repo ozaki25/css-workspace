@@ -1,0 +1,19 @@
+.table1 {
+  table-layout: auto;
+  width: 300px;
+}
+
+.table2 {
+  table-layout: auto;
+  width: 100%;
+}
+
+.table3 {
+  table-layout: fixed;
+  width: 300px;
+}
+
+.table4 {
+  table-layout: fixed;
+  width: 100%;
+}
