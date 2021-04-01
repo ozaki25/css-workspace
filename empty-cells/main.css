@@ -1,0 +1,11 @@
+td {
+  border: solid 3px;
+}
+
+.table1 {
+  empty-cells: show;
+}
+
+.table2 {
+  empty-cells: hide;
+}
