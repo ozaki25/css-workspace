@@ -1,0 +1,51 @@
+.list1 {
+  list-style: disc;
+}
+
+.list2 {
+  list-style: circle;
+}
+
+.list3 {
+  list-style: square;
+}
+
+.list4 {
+  list-style: decimal;
+}
+
+.list5 {
+  list-style: georgian;
+}
+
+.list6 {
+  list-style: trad-chinese-informal;
+}
+
+.list7 {
+  list-style: kannada;
+}
+
+.list8 {
+  list-style: 'あ';
+}
+
+.list9 {
+  list-style: '\1F44D';
+}
+
+.list10 {
+  list-style: none;
+}
+
+.list11 {
+  list-style: url(https://pbs.twimg.com/profile_images/1015574351272280064/DC2PSvHY_x96.jpg);
+}
+
+.list12 {
+  list-style: inside;
+}
+
+.list13 {
+  list-style: outside;
+}
