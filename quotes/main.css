@@ -1,0 +1,25 @@
+span::before,
+p::before {
+  content: open-quote;
+}
+
+span::after,
+p::after {
+  content: close-quote;
+}
+
+.text1 {
+  quotes: none;
+}
+
+.text2 {
+  quotes: auto;
+}
+
+.text3 {
+  quotes: 'スタート' 'エンド';
+}
+
+.text4 {
+  quotes: '「' '」' '『' '』';
+}
