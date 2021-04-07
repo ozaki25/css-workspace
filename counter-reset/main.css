@@ -1,0 +1,35 @@
+.text1 {
+  counter-increment: text1;
+}
+
+.text1.reset {
+  counter-reset: text1;
+}
+
+.text1::before {
+  content: counter(text1);
+}
+
+.text2 {
+  counter-increment: text2;
+}
+
+.text2.reset {
+  counter-reset: text2 10;
+}
+
+.text2::before {
+  content: counter(text2);
+}
+
+.text3 {
+  counter-increment: text3;
+}
+
+.text3.reset {
+  counter-reset: text3 -5;
+}
+
+.text3::before {
+  content: counter(text3);
+}
