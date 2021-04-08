@@ -1,0 +1,59 @@
+.text1 {
+  outline: auto;
+}
+
+.text2 {
+  outline: none;
+}
+
+.text3 {
+  outline: dotted;
+}
+
+.text4 {
+  outline: dashed;
+}
+
+.text5 {
+  outline: solid;
+}
+
+.text6 {
+  outline: double;
+}
+
+.text7 {
+  outline: groove;
+}
+
+.text8 {
+  outline: ridge;
+}
+
+.text9 {
+  outline: inset;
+}
+
+.text10 {
+  outline: outset;
+}
+
+.text11 {
+  outline: thin solid;
+}
+
+.text12 {
+  outline: medium solid;
+}
+
+.text13 {
+  outline: thick solid;
+}
+
+.text14 {
+  outline: 10px solid;
+}
+
+.text15 {
+  outline: red solid;
+}
