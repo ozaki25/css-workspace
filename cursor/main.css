@@ -1,0 +1,143 @@
+.text1 {
+  cursor: auto;
+}
+
+.text2 {
+  cursor: default;
+}
+
+.text3 {
+  cursor: none;
+}
+
+.text4 {
+  cursor: context-menu;
+}
+
+.text5 {
+  cursor: help;
+}
+
+.text6 {
+  cursor: pointer;
+}
+
+.text7 {
+  cursor: progress;
+}
+
+.text8 {
+  cursor: wait;
+}
+
+.text9 {
+  cursor: cell;
+}
+
+.text10 {
+  cursor: crosshair;
+}
+
+.text11 {
+  cursor: text;
+}
+
+.text12 {
+  cursor: vertical-text;
+}
+
+.text13 {
+  cursor: alias;
+}
+
+.text14 {
+  cursor: copy;
+}
+
+.text15 {
+  cursor: move;
+}
+
+.text16 {
+  cursor: no-drop;
+}
+
+.text17 {
+  cursor: not-allowed;
+}
+
+.text18 {
+  cursor: grab;
+}
+
+.text19 {
+  cursor: grabbing;
+}
+
+.text20 {
+  cursor: all-scroll;
+}
+
+.text21 {
+  cursor: col-resize;
+}
+
+.text22 {
+  cursor: row-resize;
+}
+
+.text23 {
+  cursor: n-resize;
+}
+
+.text24 {
+  cursor: e-resize;
+}
+
+.text25 {
+  cursor: s-resize;
+}
+
+.text26 {
+  cursor: w-resize;
+}
+
+.text27 {
+  cursor: ne-resize;
+}
+
+.text28 {
+  cursor: nw-resize;
+}
+
+.text29 {
+  cursor: se-resize;
+}
+
+.text30 {
+  cursor: sw-resize;
+}
+
+.text31 {
+  cursor: ew-resize;
+}
+
+.text32 {
+  cursor: ns-resize;
+}
+
+.text33 {
+  cursor: nesw-resize;
+}
+
+.text34 {
+  cursor: nwse-resize;
+}
+
+.text35 {
+  cursor: zoom-in;
+}
+
+.text36 {
+  cursor: zoom-out;
+}
